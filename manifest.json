@@ -1,7 +1,7 @@
 {
   "versionCode": 3,
   "versionName": "0.3",
-  "changelog": "Усиление звука до +12 дБ и плавная перемотка при удержании ←/→. На паузе картинка темнеет, а заставку ТВ можно отключить. Часы поверх видео, «Масштаб» одной кнопкой, звук и субтитры на вашем языке. Таймер остановки работает и с Flux.",
+  "changelog": "New Version",
   "apks": {
     "armeabi-v7a": {
       "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.3/viy-0.3-armeabi-v7a.apk",
