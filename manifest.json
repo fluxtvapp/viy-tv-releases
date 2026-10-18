@@ -1,19 +1,19 @@
 {
-  "versionCode": 4,
-  "versionName": "0.4",
-  "changelog": "Skip intro, recap and credits in files with named chapters. Episode lists from Flux and TorrServer. SMB1 servers and NetBIOS network search. Video output: Normal by default, Tunnel only by choice. Fixes: sound with night mode on some boxes, Dolby Vision, sound after exit.",
+  "versionCode": 5,
+  "versionName": "0.5",
+  "changelog": "Home library: films and series with posters, pages, cast and search. Dolby Vision profile 7 (UHD Blu-ray remuxes) on TVs without it.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.4/viy-0.4-armeabi-v7a.apk",
-      "sha256": "cad5d2612bcfb4a9d844d8df56f052bab4614674dc9fb8e0c1326986a5d9bb59"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.5/viy-0.5-armeabi-v7a.apk",
+      "sha256": "dd8bb615d3bd45c833fbd6aa37983282b9195da8c6679352a847cfa9c7dce580"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.4/viy-0.4-arm64-v8a.apk",
-      "sha256": "540bb031ef77b393eb60f6a15ab7f98997387c3062a6970a0d6f080788a3785e"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.5/viy-0.5-arm64-v8a.apk",
+      "sha256": "24c0d2225d74bcf4e0f6722f49616d83f19c0a866a3ba2bd4fe592d8d97dc4bb"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.4/viy-0.4-x86_64.apk",
-      "sha256": "7f19da97840f683ff476a34254dc745fc5b6543dc0ea3263c72984a548564336"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.5/viy-0.5-x86_64.apk",
+      "sha256": "96be65cfe3f65ac78c7e3914ea2b766bf2afebf7efa789abd99d01dd7c82f416"
     }
   }
 }
