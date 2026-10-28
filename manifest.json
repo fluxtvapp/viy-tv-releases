@@ -1,19 +1,19 @@
 {
-  "versionCode": 6,
-  "versionName": "0.6",
-  "changelog": "Skip intros by itself. Voice boost, stereo and one audio delay for all files. Subtitle colour, font and outline; default audio and subtitle languages. Colour themes.",
+  "versionCode": 7,
+  "versionName": "0.7",
+  "changelog": "Torrent series start in seconds. DLNA media servers. Episode list in the player. Buffer size in MB. Interface language. Delete files from the library. MKV without micro-freezes.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.6/viy-0.6-armeabi-v7a.apk",
-      "sha256": "58e3b93e640a04ee29755535158540a213230085b3236ad6e55627101d7d0548"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-armeabi-v7a.apk",
+      "sha256": "9eef9ad52fa7028a91b7e001d8ba69969766b866c5e0311fa9cc05d414d0a767"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.6/viy-0.6-arm64-v8a.apk",
-      "sha256": "52a5838c72ad5c1f6cf14eec5ea848e75a18c934614396ccd55d3671bc491e9d"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-arm64-v8a.apk",
+      "sha256": "6202808bcef95ff786bd79953e587ca6c53dd7224b4d439085a8d4f25f694a0e"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.6/viy-0.6-x86_64.apk",
-      "sha256": "784eab6505cc685f23e83f505b76085587226e5f21d9120c56565ff168d2e154"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-x86_64.apk",
+      "sha256": "59fdd2061d53d57bcc9206826cb0019c1c6f1a7e09d1c77190185cc7c975443f"
     }
   }
 }
