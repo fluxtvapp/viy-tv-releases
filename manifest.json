@@ -1,19 +1,19 @@
 {
-  "versionCode": 7,
-  "versionName": "0.7",
-  "changelog": "Torrent series start in seconds. DLNA media servers. Episode list in the player. Buffer size in MB. Interface language. Delete files from the library. MKV without micro-freezes.",
+  "versionCode": 8,
+  "versionName": "0.8",
+  "changelog": "Films of a switched-off server stay, dimmed. Dub kept for the whole series. Dolby and DTS to TV speakers again. Full track names. Pause without the panel. Buffer % while loading.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-armeabi-v7a.apk",
-      "sha256": "9eef9ad52fa7028a91b7e001d8ba69969766b866c5e0311fa9cc05d414d0a767"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.8/viy-0.8-armeabi-v7a.apk",
+      "sha256": "6444e3377f3fc17d8198a1d978f265821364d5b282afad5d248b3128f42e8e44"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-arm64-v8a.apk",
-      "sha256": "6202808bcef95ff786bd79953e587ca6c53dd7224b4d439085a8d4f25f694a0e"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.8/viy-0.8-arm64-v8a.apk",
+      "sha256": "abffebf30ce59735fe7344fa39d4391bb8677854e49a5ec1eeb0ecc62faf7806"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.7/viy-0.7-x86_64.apk",
-      "sha256": "59fdd2061d53d57bcc9206826cb0019c1c6f1a7e09d1c77190185cc7c975443f"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.8/viy-0.8-x86_64.apk",
+      "sha256": "c21fcb9745a776c172d2b8f342e2db8f4bb49512b02eed3093b2a4fe0e0d1f7f"
     }
   }
 }
