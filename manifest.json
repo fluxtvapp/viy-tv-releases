@@ -1,19 +1,19 @@
 {
-  "versionCode": 9,
-  "versionName": "0.9",
-  "changelog": "Dolby and DTS to receivers on Android 13-14 boxes again. Library folders as Films or Series. 4K Dolby Vision with Bluetooth fixed. Seeking in more MKV files. Our apps in Settings.",
+  "versionCode": 10,
+  "versionName": "0.10",
+  "changelog": "Library moves to another box by code. Dolby Digital 5.1 for soundbars and stereo-only TVs. Atmos in MKV. Posters where TMDb is blocked. A short network drop no longer stops a film.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.9/viy-0.9-armeabi-v7a.apk",
-      "sha256": "a3316ddb1a1b8052619cff083f14727734be0bab146921f7d5607191b9ac3daa"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-armeabi-v7a.apk",
+      "sha256": "40c2feba5babb360972a16da0b5a1f6cae4d3b79a4ef805da644b1aa680b9ebb"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.9/viy-0.9-arm64-v8a.apk",
-      "sha256": "2bab2fe70fa6f2a2ddaa8d321ec39709aa94619445416c986638d01118a83baa"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-arm64-v8a.apk",
+      "sha256": "a4d8f130d7d4034840589d4e46aee5292b52e266cca8b8bc373cc87d915425b8"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.9/viy-0.9-x86_64.apk",
-      "sha256": "64764d5aabd2ad0181d38e076b362af6aaba966a87ad529bdc4e05e98cc60956"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-x86_64.apk",
+      "sha256": "931a6f18e9932c3543555b6505ed4e13d1ac3d0bdedc5ddfe9e13aba53809169"
     }
   }
 }
