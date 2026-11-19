@@ -1,19 +1,19 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
-  "changelog": "Library moves to another box by code. Dolby Digital 5.1 for soundbars and stereo-only TVs. Atmos in MKV. Posters where TMDb is blocked. A short network drop no longer stops a film.",
+  "versionCode": 11,
+  "versionName": "0.11",
+  "changelog": "Sound when Android's surround is set to Never. Dolby Digital 5.1 for soundbars on Android 10-12 boxes. 4K UHD rips on the TV's own decoder. Buffer, speed and peers in the player panel.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-armeabi-v7a.apk",
-      "sha256": "40c2feba5babb360972a16da0b5a1f6cae4d3b79a4ef805da644b1aa680b9ebb"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-armeabi-v7a.apk",
+      "sha256": "fb6e8c8f3f00ebbc0b15cc035dea438e59a4ad9f7c56f87bcda3c27ef10017ee"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-arm64-v8a.apk",
-      "sha256": "a4d8f130d7d4034840589d4e46aee5292b52e266cca8b8bc373cc87d915425b8"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-arm64-v8a.apk",
+      "sha256": "8a69272336e1a27f214238b0aa090ee8f82a64bf5faf2e2c299e115af8efa4a8"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.10/viy-0.10-x86_64.apk",
-      "sha256": "931a6f18e9932c3543555b6505ed4e13d1ac3d0bdedc5ddfe9e13aba53809169"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-x86_64.apk",
+      "sha256": "e499076c96ede9856f69bed47c52b813456094e9609e13a75fea18bbbce96371"
     }
   }
 }
