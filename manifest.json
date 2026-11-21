@@ -1,19 +1,19 @@
 {
-  "versionCode": 11,
-  "versionName": "0.11",
-  "changelog": "Sound when Android's surround is set to Never. Dolby Digital 5.1 for soundbars on Android 10-12 boxes. 4K UHD rips on the TV's own decoder. Buffer, speed and peers in the player panel.",
+  "versionCode": 12,
+  "versionName": "0.12",
+  "changelog": "Blu-ray .m2ts files play. A short network drop no longer stops an online film. IEC 61937 option for AC3 when sound lags on a soundbar. Clearer error messages. VPN hint in Sources.",
   "apks": {
     "armeabi-v7a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-armeabi-v7a.apk",
-      "sha256": "fb6e8c8f3f00ebbc0b15cc035dea438e59a4ad9f7c56f87bcda3c27ef10017ee"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.12/viy-0.12-armeabi-v7a.apk",
+      "sha256": "eb88140ad7d712e6f12e29105973b1f92c058978af6ccd5d604765da71bcafce"
     },
     "arm64-v8a": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-arm64-v8a.apk",
-      "sha256": "8a69272336e1a27f214238b0aa090ee8f82a64bf5faf2e2c299e115af8efa4a8"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.12/viy-0.12-arm64-v8a.apk",
+      "sha256": "598be3a7e79555e32e790ec53df1d8965b276c470f74815bca9d3f512e8db232"
     },
     "x86_64": {
-      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.11/viy-0.11-x86_64.apk",
-      "sha256": "e499076c96ede9856f69bed47c52b813456094e9609e13a75fea18bbbce96371"
+      "url": "https://github.com/fluxtvapp/viy-tv-releases/releases/download/0.12/viy-0.12-x86_64.apk",
+      "sha256": "9ab2f8193351e2e34185f686fe479100e9aa21a4bf782236df10d7de2c90a07d"
     }
   }
 }
